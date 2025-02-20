@@ -3,7 +3,6 @@ name: Bug Report
 about: 애플리케이션에 문제가 생겼어요!😭
 title: "[BUG] "
 labels: Bug
-assignees: snowykte0426, se0hui
 ---
 
 ## 🐞 버그 설명
