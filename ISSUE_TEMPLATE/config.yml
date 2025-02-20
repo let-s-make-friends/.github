@@ -1,0 +1,12 @@
+blank:
+  - title: 'Blank Issue'
+    labels: ['bug']
+    assignees: ['octocat']
+bug:
+  - title: 'Bug Report'
+    labels: ['bug']
+    assignees: ['octocat']
+todo:
+  - title: 'To-Do Item'
+    labels: ['todo']
+    assignees: ['octocat']
